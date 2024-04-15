@@ -1,0 +1,17 @@
+.body-class {
+    border: solid 2px red;
+    width: 100%;
+}
+
+.nav-class {
+    border: solid 2px blue;
+    position: absolute;
+    top: 20px;
+    right: 0;
+}
+
+.main {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    border: solid 2px purple;
+}

@@ -1,0 +1,23 @@
+*HTML SEMÂNTICO*
+
+- O que é?
+
+HTML semântico é uma forma de escrever HTML que dá significado claro ao conteúdo, usando elementos que descrevem sua função.
+
+- Quais as suas vantagens?
+
+Melhor acessibilidade, SEO e compreensão do conteúdo para desenvolvedores e leitores.
+
+- Qual a sua usabilidade?
+
+HTML semântico melhora a usabilidade ao tornar o conteúdo mais compreensível para os usuários e navegadores.
+
+- Principais benefícios:
+
+Acessibilidade melhorada, SEO melhor, manutenção e compreensão do código facilitadas.
+
+*CLASS, ID E TAGS*
+
+- Qual a diferença?
+
+CLASS é usada para estilizar múltiplos elementos, ID para um único elemento específico e as TAGS selecionam um tipo de elemento para estilização no CSS.
